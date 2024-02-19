@@ -1,1 +1,5 @@
 # Proyek-4-Praktikum-2
+Fahrizal Mudzaqi Maulana (221511049)
+![ss weather_app (celcius)](https://github.com/jekforger/Proyek-4-Praktikum-2/assets/149549687/269067b9-1f11-4309-bad9-c7c8a1d89dad)
+
+![ss weather_app (farenheit)](https://github.com/jekforger/Proyek-4-Praktikum-2/assets/149549687/f06b46b7-e59a-4c75-b9f9-a9f64a84a303)
